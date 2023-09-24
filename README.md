@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://nory9.github.io/3-column-preview-card/)https://your-live-site-url.com)
+- Live Site URL: (https://nory9.github.io/3-column-preview-card/)
 
 
 ### Built with
